@@ -1,0 +1,16 @@
+{
+  "short_name": "GR Portfolio",
+  "name": "MD GOLAM RABBANI - Portfolio",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/Rabbani/",
+  "background_color": "#030014",
+  "theme_color": "#030014",
+  "display": "standalone",
+  "orientation": "portrait"
+}
